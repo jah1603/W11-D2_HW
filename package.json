@@ -1,0 +1,23 @@
+{
+  "name": "week_11-day_2-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregorcox/week_11-day_2-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregorcox/week_11-day_2-lab/issues"
+  },
+  "homepage": "https://github.com/gregorcox/week_11-day_2-lab#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
